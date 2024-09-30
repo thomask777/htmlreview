@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    font: size 16px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #444;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+
+ol{
+    list-style-type:square;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
+
+table{
+    border:black;
+}
